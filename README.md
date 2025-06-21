@@ -19,5 +19,6 @@
 - PyBox2D
 - PySide6
 - ScreenInfo
+
 Написано на python 3.10
 
